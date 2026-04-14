@@ -1,0 +1,11 @@
+langchain-community
+langchain
+langchain-text-splitters
+pypdf
+langchain-openai
+openai
+streamlit
+sentence-transformers
+faiss-cpu
+langchain-core
+langchain-huggingface
